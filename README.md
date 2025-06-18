@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Vaishnevi Satheeskumar
 
-<!--
-**VAISHNEVISATHEES/VAISHNEVISATHEES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 💻 Software Developer  
+🌱 Passionate about turning ideas into reality through code  
+🚀 Backend systems, and smart automation  
+🧠 Continuous learner | 🔧 Problem solver | 🌐 Open-source enthusiast  
 
-Here are some ideas to get you started:
+### 📌 Tech Stack
+- 💻 Languages: Python, JavaScript
+- 🧰 Tools: React, Node.js, Express, MongoDB, MySQL, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I Do
+- 🛠️ Develop responsive web apps with clean code
+- 📚 Share code, learn in public, and contribute when I can
+
+### 🔗 Connect with Me
+[💼 LinkedIn](https://www.linkedin.com/in/your-profile) | 📬 vaishnevi21udt@gmail.com
+
